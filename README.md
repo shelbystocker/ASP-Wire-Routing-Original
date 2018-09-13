@@ -6,4 +6,4 @@ been running experiments where the number of blocks increases by 5 and running 3
 The file wire1.lp solves each board and outputs the moves that need to be made to get wires to their goal positions. 
 Wires cannot cross. The file randomPuzzle.py generates the wires, goals, and blocks. The file solver.command is a bash script
 that calls the generator (randomPuzzle.py) and the solver (wire1.lp). The outer for loop of solver.command is the number
-of blocks and the inner for loop is the number of instances. 
+of blocks and the inner for loop is the number of instances. The size of the board, number of wires, and number of blocks can all be changed. 
