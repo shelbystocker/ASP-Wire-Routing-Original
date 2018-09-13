@@ -1,5 +1,4 @@
-# ASP-Wire-Routing-Original
-My original solution to the wire routing problem. 
+# ASP-Wire-Routing
 
 The wire routing problem is of a 20 x 20 grid that starts with 3 wires. The starting postions and goal positions
 are randomly generated. Some of the squares on the grid can be blocked, meaning a wire can not be on that spot. I have
